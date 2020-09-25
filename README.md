@@ -1,4 +1,3 @@
 # hello-world
-First repository
 
-Hey everyone! Just writing a lil gibberish in here to complete the online tutorial, don't mind me!
+Hey everyone! Just writing a lil gibberish in here to complete an online tutorial, don't mind me!
